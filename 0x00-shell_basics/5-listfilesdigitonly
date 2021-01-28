@@ -1,2 +1,2 @@
 #!/bin/dash
-ls -l -n .*
+ls -l -n -a
